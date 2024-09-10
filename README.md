@@ -1,4 +1,5 @@
-**British Airways Review Dashboard**
+# British Airways Review Dashboard
+
 **Overview**
 This dashboard presents a comprehensive analysis of British Airways' customer reviews over time, segmented by various metrics such as overall rating, cabin staff service, entertainment, food, ground service, seat comfort, and value for money.
 
